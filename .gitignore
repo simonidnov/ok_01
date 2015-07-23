@@ -27,3 +27,4 @@ Temporary Items
 # ALL dependencies from bower and other bin
 /bin
 /bower_components
+npm-debug.log
