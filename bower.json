@@ -24,6 +24,14 @@
     "jquery": "https://github.com/jquery/jquery.git#~2.1.4",
     "jquery-ui": "https://github.com/jquery/jquery-ui.git#~1.11.4",
     "d3": "https://github.com/mbostock/d3.git#~3.5.6",
-    "phaser": "https://github.com/photonstorm/phaser.git#~2.4.0"
+    "phaser": "https://github.com/photonstorm/phaser.git#~2.4.0",
+    "SoundJS": "https://github.com/CreateJS/SoundJS.git#~0.6.1",
+    "EaselJS": "https://github.com/CreateJS/EaselJS.git#~0.8.1",
+    "PreloadJS": "https://github.com/CreateJS/PreloadJS.git#~0.6.1",
+    "hammerjs": "https://github.com/hammerjs/hammer.js.git#~2.0.4",
+    "TweenJS": "https://github.com/CreateJS/TweenJS.git#~0.6.1",
+    "Combined": "https://github.com/CreateJS/Combined.git",
+    "raphael": "https://github.com/DmitryBaranovskiy/raphael.git#~2.1.4"
   }
 }
+
